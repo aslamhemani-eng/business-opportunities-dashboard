@@ -1,0 +1,32 @@
+{
+  "name": "Business Opportunities",
+  "short_name": "BizOpps",
+  "description": "Business Opportunities — dividends, online business, DFW real estate, crowdfunding, auctions",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#14532d",
+  "background_color": "#14532d",
+  "icons": [
+    {
+      "src": "bo-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "bo-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "bo-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
